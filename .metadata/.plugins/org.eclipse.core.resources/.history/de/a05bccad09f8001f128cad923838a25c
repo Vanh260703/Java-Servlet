@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id = "myDiv">
+		HIỂN THỊ
+	</div>
+	<input type = "button" value = "Ẩn/Hiện" onclick = "hideDiv()")>
+	<script type="text/javascript">
+		function hideDiv(){
+			const myDiv = document.getElementById("myDiv");
+			if(myDiv.style.display = "block"){
+				myDiv.style.display = "none";
+			}else{
+				myDiv.style.display = "block";
+			}
+		}
+	</script>
+</body>
+</html>

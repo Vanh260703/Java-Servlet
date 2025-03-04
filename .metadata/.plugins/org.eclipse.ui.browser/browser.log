@@ -1,0 +1,127 @@
+
+Feb 26, 2025 22:14:26.50 NEW SESSION
+Feb 26, 2025 22:14:26.51 [8780:7412:0226/221426.502:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 26, 2025 22:14:27.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2025 22:14:27.53 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 26, 2025 22:14:54.42 [8780:7412:0226/221454.427:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 26, 2025 22:15:50.48 [8780:7412:0226/221550.487:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 26, 2025 22:17:12.49 [8780:7412:0226/221712.495:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 26, 2025 22:19:05.97 [8780:7412:0226/221905.978:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 27, 2025 01:19:15.50 [8780:7412:0227/011915.507:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 27, 2025 01:19:21.64 [8780:9776:0227/011921.534:ERROR:device_event_log_impl.cc(199)] [01:19:21.538] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2025 22:57:27.99 [8780:9776:0227/225727.993:ERROR:device_event_log_impl.cc(199)] [22:57:27.852] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2025 22:57:33.16 [8780:7412:0227/225733.166:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2025 22:57:36.13 [8780:7412:0227/225736.139:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 27, 2025 23:02:59.07 [8780:7412:0227/230259.070:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 27, 2025 23:04:28.62 [8780:9776:0227/230428.627:ERROR:device_event_log_impl.cc(199)] [23:04:28.637] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2025 23:04:28.65 [8780:9776:0227/230428.658:ERROR:device_event_log_impl.cc(199)] [23:04:28.662] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 24:03:49.34 [8780:7412:0228/000349.341:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+Feb 28, 2025 24:05:50.53 [8780:7412:0228/000550.533:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 28, 2025 03:05:53.30 [8780:7412:0228/030553.308:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 28, 2025 03:05:59.65 [8780:9776:0228/030559.654:ERROR:device_event_log_impl.cc(199)] [03:05:59.654] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:28:56.33 [8780:7412:0228/222856.330:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2025 22:28:58.43 [8780:7412:0228/222856.382:ERROR:checkin_request.cc(242)] Check-in request got net error: -106
+Feb 28, 2025 22:28:58.43 [8780:8232:0228/222856.384:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Feb 28, 2025 22:29:06.58 [8780:7412:0228/222906.581:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:29:27.95 [8780:7412:0228/222927.953:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:30:10.52 [8780:9776:0228/223010.529:ERROR:device_event_log_impl.cc(199)] [22:30:10.529] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:30:10.55 [8780:9776:0228/223010.555:ERROR:device_event_log_impl.cc(199)] [22:30:10.555] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:30:19.20 [8780:7412:0228/223019.201:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:31:55.71 [8780:7412:0228/223155.714:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:34:52.81 [8780:7412:0228/223452.809:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:39:07.53 [8780:9776:0228/223907.536:ERROR:device_event_log_impl.cc(199)] [22:39:07.537] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:39:07.54 [8780:9776:0228/223907.547:ERROR:device_event_log_impl.cc(199)] [22:39:07.548] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:39:29.23 [8780:9776:0228/223929.238:ERROR:device_event_log_impl.cc(199)] [22:39:29.238] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:39:29.24 [8780:9776:0228/223929.249:ERROR:device_event_log_impl.cc(199)] [22:39:29.248] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:39:46.21 [8780:9776:0228/223946.211:ERROR:device_event_log_impl.cc(199)] [22:39:46.211] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:39:46.23 [8780:9776:0228/223946.229:ERROR:device_event_log_impl.cc(199)] [22:39:46.229] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:40:07.49 [8780:9776:0228/224007.492:ERROR:device_event_log_impl.cc(199)] [22:40:07.492] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:40:07.51 [8780:9776:0228/224007.513:ERROR:device_event_log_impl.cc(199)] [22:40:07.513] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:40:42.37 [8780:9776:0228/224042.371:ERROR:device_event_log_impl.cc(199)] [22:40:42.371] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:40:42.40 [8780:9776:0228/224042.408:ERROR:device_event_log_impl.cc(199)] [22:40:42.408] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:41:21.24 [8780:7412:0228/224121.247:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 28, 2025 22:42:24.72 [8780:9776:0228/224224.726:ERROR:device_event_log_impl.cc(199)] [22:42:24.726] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:42:24.74 [8780:9776:0228/224224.743:ERROR:device_event_log_impl.cc(199)] [22:42:24.743] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 22:50:46.25 [8780:9776:0228/225046.252:ERROR:device_event_log_impl.cc(199)] [22:50:46.252] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2025 22:50:46.26 [8780:9776:0228/225046.267:ERROR:device_event_log_impl.cc(199)] [22:50:46.267] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 28, 2025 23:30:06.94 [8780:7412:0228/233006.946:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Mar 04, 2025 02:46:44.18 NEW SESSION
+Mar 04, 2025 02:46:44.20 [25944:20688:0304/024644.102:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 02:46:44.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 04, 2025 02:46:44.79 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 04, 2025 02:47:05.67 [25944:20688:0304/024705.671:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 02:47:56.19 [25944:20688:0304/024756.192:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 02:49:23.78 [25944:20688:0304/024923.779:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 02:51:14.21 [25944:20688:0304/025114.211:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 02:52:31.86 [25944:20688:0304/025231.864:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 02:55:44.44 [25944:20688:0304/025544.439:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 02:59:09.39 [25944:20688:0304/025909.397:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:00:42.03 [25944:20688:0304/030042.037:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:02:20.68 [22432:13248:0304/030220.687:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:02:21.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 04, 2025 03:02:21.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 04, 2025 03:02:46.60 [22432:13248:0304/030246.600:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:03:37.13 [22432:13248:0304/030337.130:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:05:32.57 [22432:13248:0304/030532.570:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:06:50.75 [22432:13248:0304/030650.754:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:08:54.45 [22432:13248:0304/030854.450:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:16:43.99 [22432:13248:0304/031643.999:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:21:00.49 [22432:13248:0304/032100.497:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:21:03.50 [22432:13248:0304/032103.506:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 04, 2025 03:21:55.20 [22432:13248:0304/032155.208:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:22:24.18 [22432:13248:0304/032224.185:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:23:21.07 [22432:13248:0304/032321.077:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:25:04.01 [22432:13248:0304/032504.012:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:26:47.54 [22432:13248:0304/032647.548:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:28:22.94 [22432:13248:0304/032822.945:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:33:56.69 [22432:13248:0304/033356.693:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:35:19.64 [22432:13248:0304/033519.640:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 04, 2025 03:36:00.61 [22432:13248:0304/033600.611:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:36:02.87 [22432:13248:0304/033602.874:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 04, 2025 03:40:38.50 [22432:13248:0304/034038.499:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 03:49:02.68 [22432:13248:0304/034902.680:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 04, 2025 06:49:10.60 [22432:16596:0304/064910.609:ERROR:device_event_log_impl.cc(199)] [06:49:10.608] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 04, 2025 06:49:10.82 [22432:13248:0304/064910.827:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 24:40:15.93 [22432:13248:0305/004015.936:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2025 24:40:16.15 [22432:12412:0305/004015.979:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Mar 05, 2025 24:40:50.80 [22432:16596:0305/004050.799:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 05, 2025 24:41:40.37 [22432:13248:0305/004140.372:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2025 24:41:47.07 [22432:13248:0305/004147.075:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 24:42:10.59 [22432:13248:0305/004210.593:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 24:42:54.75 [22432:13248:0305/004254.758:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 24:44:34.61 [22432:13248:0305/004434.612:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 24:48:10.30 [22432:13248:0305/004810.299:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 24:50:44.09 [22432:13248:0305/005044.092:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 24:55:36.39 [22432:13248:0305/005536.391:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 05, 2025 01:02:16.08 [22432:13248:0305/010216.086:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:06:46.39 [22432:13248:0305/010646.390:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:12:04.48 [22432:13248:0305/011204.481:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:16:35.77 [22432:13248:0305/011635.779:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:21:06.07 [22432:13248:0305/012106.073:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:25:36.33 [22432:13248:0305/012536.338:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:30:06.61 [22432:13248:0305/013006.616:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:34:36.88 [22432:13248:0305/013436.889:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:39:08.27 [22432:13248:0305/013908.276:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:43:38.51 [22432:13248:0305/014338.519:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:48:08.77 [22432:13248:0305/014808.777:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:52:39.06 [22432:13248:0305/015239.067:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 01:57:10.13 [22432:13248:0305/015710.133:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:01:40.38 [22432:13248:0305/020140.383:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:06:10.64 [22432:13248:0305/020610.640:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:10:40.88 [22432:13248:0305/021040.883:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:15:11.12 [22432:13248:0305/021511.128:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:19:41.37 [22432:13248:0305/021941.370:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:24:12.59 [22432:13248:0305/022412.590:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:28:42.79 [22432:13248:0305/022842.798:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:33:14.04 [22432:13248:0305/023314.034:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:37:45.31 [22432:13248:0305/023745.311:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:42:15.54 [22432:13248:0305/024215.549:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:46:46.79 [22432:13248:0305/024646.789:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:51:18.02 [22432:13248:0305/025118.019:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:51:48.94 [22432:13248:0305/025148.942:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 02:51:51.45 [22432:13248:0305/025151.456:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2025 02:56:26.87 [22432:13248:0305/025626.878:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 03:00:57.07 [22432:13248:0305/030057.078:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 03:05:27.37 [22432:13248:0305/030527.375:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 05, 2025 03:09:57.59 [22432:13248:0305/030957.589:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2

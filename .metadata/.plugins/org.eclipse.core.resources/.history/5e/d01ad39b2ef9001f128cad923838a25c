@@ -1,0 +1,75 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<%
+		// Radio button => name
+		String processor = request.getParameter("processor");
+		String ram = request.getParameter("ram");
+		int processorPrice = 0;
+		int ramPrice = 0;
+		double spendMoney = 0;
+		if(processor != null){
+			if(processor.equals("CoreI9")){
+				processorPrice+= 5000000;
+			}else if(processor.equals("CoreI7")){
+				processorPrice+= 4000000;
+			}else if(processor.equals("CoreI5")){
+				processorPrice+= 3000000;
+			}
+			spendMoney = processorPrice;
+		}
+		
+		if(ram != null){
+			if(ram.equals("8GB")){
+				ramPrice+= 500000;
+			}else if(ram.equals("16GB")){
+				ramPrice+= 1200000;
+			}
+			spendMoney = ramPrice;
+		}
+		
+		//Checkbox => name
+		String monitor = request.getParameter("monitor");
+		if(monitor != null){
+			spendMoney += 1500000;
+		}
+		//Select String [] mang =  getParameterValues("ten");
+		
+		String[] accessories = request.getParameterValues("accessories");
+		
+		for(String option: accessories){
+			if(option.equals("Camera")){
+				spendMoney += 800000;
+			}else if(option.equals("Printer")){
+				spendMoney += 1500000;
+			}else if(option.equals("Scanner")){
+				spendMoney += 1500000;
+			}
+		}
+	%>
+	
+	<h1>HOÁ ĐƠN</h1>
+	<table class="table">
+	  <thead>
+	    <tr>
+	      <th scope="col">Tên sản phẩm</th>
+	      <th scope="col">Giá tiền</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	  <% if(processor != null){ %>
+	    <tr>
+	      <td><%= processor %></td>
+	      <td><%= processorPrice %></td>
+	    </tr>
+	    <% } %>
+	  </tbody>
+</table>
+</body>
+</html>

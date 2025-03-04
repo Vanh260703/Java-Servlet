@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>H1</h1>
+	<p>
+		<font color="red" size="5"> P1 </font>
+	</p>
+
+	<p>
+		<font color="blue" size="10"> P1 </font>
+	</p>
+
+	<input type = "url">
+
+</body>
+</html>

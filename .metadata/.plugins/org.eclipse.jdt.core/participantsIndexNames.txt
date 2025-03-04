@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3087498784.index
+\Bai6_JSP\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3786260621.index
+\Bai7\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4231076525.index
+\Bai6_JSP3\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2073547246.index
+\Bai6_JSP2\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3096712644.index
+\Bai1_HelloWorld\src\main\java

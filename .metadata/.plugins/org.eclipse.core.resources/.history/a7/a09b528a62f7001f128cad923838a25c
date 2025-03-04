@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id = "showDiv">
+		HIỂN THỊ
+	</div>
+	
+	<div id = "hideDiv">
+		ẨN
+	</div>
+	<script type="text/javascript">
+		function showDiv(){
+			const showDiv = document.getElementById("showDiv");
+			showDiv.display = "block";
+		}
+		
+		function hideDiv(){
+			const showDiv = document.getElementById("hideDiv");
+			hideDiv.display = "none";
+		}
+	</script>
+</body>
+</html>

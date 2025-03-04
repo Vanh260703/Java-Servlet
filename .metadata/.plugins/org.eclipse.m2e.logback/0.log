@@ -1,0 +1,12 @@
+2025-02-26 22:00:16,315 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-28 23:33:35,275 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.15; built: 2024-11-05T19:44:57.623Z; git: 8281ae9740d4b4225e8166cc476bad237c70213a; jvm 23.0.2+7-58
+2025-02-28 23:33:35,454 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@2a5f9992{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@554b4a8f{STARTED}}
+2025-02-28 23:33:35,456 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-02-28 23:33:35,487 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6a0ca847{HTTP/1.1, (http/1.1)}{127.0.0.1:52926}
+2025-02-28 23:33:35,504 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@125cc037{STARTING}[12.0.15,sto=0] @178508556ms
+2025-02-28 23:33:37,379 [qtp1464557560-2508] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-02-28 23:33:38,484 [qtp1464557560-2508] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-03-01 20:46:39,025 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-01 21:47:35,552 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-01 21:52:30,361 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-02 18:22:23,417 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

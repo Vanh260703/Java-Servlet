@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id = "myDiv" style = "background-color: blue" onmouseover = "changeGreen()" onmouseout = "changeBlue()">
+		MY DIV
+	</div>
+	<script type="text/javascript">
+		function changeGreen(){
+			const myDiv = document.getElementById("myDiv");
+			
+			myDiv.style = "background-color: green";
+		}
+		
+		function changeBlue(){
+			const myDiv = document.getElementById("myDiv");
+			
+			myDiv.style = "background-color: blue";	
+		}
+	</script>
+</body>
+</html>

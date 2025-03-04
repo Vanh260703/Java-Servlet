@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="">
+		<h1>Thông tin đăng nhập</h1>
+		<div>
+		<label>Email:</label>
+		<input type = "email">
+		</div>
+	</form>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id = "myDiv" onmouseover = "changeDiv()">
+		MY DIV
+	</div>
+	<script type="text/javascript">
+		function changeDiv(){
+			const myDiv = document.getElementById("myDiv");
+			
+			myDiv.style.color = "red";
+		}
+	</script>
+</body>
+</html>

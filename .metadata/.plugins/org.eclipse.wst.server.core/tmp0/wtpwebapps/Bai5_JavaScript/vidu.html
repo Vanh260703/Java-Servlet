@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function valueName(){
+		const valueName = document.getElementById("name");
+		const output = document.getElementById("output")
+		
+		output.innerHTML = "Xin chào:" + valueName.value;
+	}
+</script>
+</head>
+<body>
+	Nhập vào tên của bạn: <input type = "text" id = "name" name = "userName" onchange ="valueName()"/> 
+	<p id = "output">Xin chào: </p>
+</body>
+</html>
