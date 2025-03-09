@@ -1,11 +1,35 @@
 INDEX VERSION 1.134
-C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3087498784.index
-\Bai6_JSP\src\main\java
-C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3786260621.index
-\Bai7\src\main\java
-C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4231076525.index
-\Bai6_JSP3\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2073547246.index
 \Bai6_JSP2\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3701696230.index
+\Bai6_JSP4\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1780381643.index
+\BaiTap13c\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3786260621.index
+\Bai7\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1250691968.index
+\BaiTap13d\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2693347355.index
+\Bai9\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3172906758.index
+\Ba10_BaiTapBatLoi\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1644105824.index
+\BaiTap13b\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\425912667.index
+\Bai11_Regex\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2380752474.index
+\Bai8_BaiTapServlet\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\133180324.index
+\Bai12_BatLoiTrang\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\454109156.index
+\BaiTap13a_DangNhap\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4231076525.index
+\Bai6_JSP3\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3988307080.index
+\BaiTap13b\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3096712644.index
 \Bai1_HelloWorld\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3871633292.index
+\Bai12_BatLoiTrang\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3087498784.index
+\Bai6_JSP\src\main\java
