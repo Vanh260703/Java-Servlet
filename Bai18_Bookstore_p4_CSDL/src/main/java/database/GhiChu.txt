@@ -1,0 +1,7 @@
+DAO : Date Access Object // Đối tượng để lấy dữ liệu
+
+// select: lấy tất cả các đối tượng
+// selectById: lấy đối tượng theo id
+// insert: thêm một đối tượng
+// delete: xoá một đối tượng
+// update: cập nhật đối tượng

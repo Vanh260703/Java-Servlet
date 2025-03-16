@@ -5,16 +5,18 @@ C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclip
 \Bai6_JSP4\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1780381643.index
 \BaiTap13c\src\main\java
-C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3786260621.index
-\Bai7\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1250691968.index
 \BaiTap13d\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3786260621.index
+\Bai7\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2693347355.index
 \Bai9\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3172906758.index
 \Ba10_BaiTapBatLoi\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1644105824.index
 \BaiTap13b\src\main\java
+C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3661603427.index
+\Bai14_Bookstore_p1\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\425912667.index
 \Bai11_Regex\src\main\java
 C:\Users\NGUYEN ANH VIET\Desktop\Java-Web\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2380752474.index
